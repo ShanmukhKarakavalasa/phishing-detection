@@ -7,4 +7,16 @@
 
 ## Pre-Processing of data
 
-- 
+- Removing delimiters
+- Tokenizing
+
+# vectorization 
+
+- Counter vectorization
+- TF-IDF vectorization
+- word2vec 
+
+### model training
+- randomforest
+- logistic regression
+- MCC
